@@ -1,0 +1,1497 @@
+{
+    "Week 1 : Assignment 1": [
+        {
+            "question": "The type of AI that all current, real-world systems (like Siri, Netflix recommendations, or a fraud detection model) belong to is known as _______, because it is designed and optimized for one specific task.",
+            "choices": [
+                "Artificial General Intelligence (AGI)",
+                "Artificial Super Intelligence (ASI)",
+                "Artificial Narrow Intelligence (ANI)",
+                "Sentient AI"
+            ],
+            "answer": [
+                "Artificial Narrow Intelligence (ANI)"
+            ]
+        },
+        {
+            "question": "The period in the \u2018Evolution of AI\u2019 characterized by reduced funding and waning interest due to over-promising and under-delivering is known as the _______.",
+            "choices": [
+                "AI Spring",
+                "The Connectionist Boom",
+                "AI Winter",
+                "The Singularity"
+            ],
+            "answer": [
+                "AI Winter"
+            ]
+        },
+        {
+            "question": "How does AI for Management create new opportunities for competitive strategy? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "By enabling hyper-personalization of products and services at a massive scale.",
+                "By creating data-driven feedback loops where the product gets smarter with each new user, building a strong competitive moat.",
+                "By allowing a company to abandon its existing information systems and replace it with AI.",
+                "By automating complex, non-routine tasks that previously required human judgment."
+            ],
+            "answer": [
+                "By enabling hyper-personalization of products and services at a massive scale.",
+                "By creating data-driven feedback loops where the product gets smarter with each new user, building a strong competitive moat.",
+                "By automating complex, non-routine tasks that previously required human judgment."
+            ]
+        },
+        {
+            "question": "The primary goal of an unsupervised learning algorithm is to",
+            "choices": [
+                "Predict a specific target value based on labeled input features.",
+                "Discover inherent structures and patterns in unlabeled data.",
+                "Classify new data into a set of predefined, known categories.",
+                "Learn a policy by interacting with an environment to maximize a reward."
+            ],
+            "answer": [
+                "Discover inherent structures and patterns in unlabeled data."
+            ]
+        },
+        {
+            "question": "In the context of AI, 'hallucination\u2019 is a key organizational risk. This specifically refers to:",
+            "choices": [
+                "AI\u2019s inability to be understood by users",
+                "AI\u2019s tendency to amplify existing human biases from its training data.",
+                "AI\u2019s potential to be easily tricked by slightly modified input data.",
+                "AI\u2019s tendency to generate fluent, confident-sounding, but factually incorrect information."
+            ],
+            "answer": [
+                "AI\u2019s tendency to generate fluent, confident-sounding, but factually incorrect information."
+            ]
+        },
+        {
+            "question": "Which form of reasoning starts with a general premise and moves to a specific, logically certain conclusion, provided the premise is true?",
+            "choices": [
+                "Inductive Reasoning",
+                "Abductive Reasoning",
+                "Deductive Reasoning",
+                "None of the above"
+            ],
+            "answer": [
+                "Deductive Reasoning"
+            ]
+        },
+        {
+            "question": "The hybrid AI approach that combines Connectionist and Symbolists school of thought is known as __________ approach.",
+            "choices": [
+                "Evolutionary",
+                "Probabilistic",
+                "Symbolist-Gen AI",
+                "Neuro-symbolic"
+            ],
+            "answer": [
+                "Neuro-symbolic"
+            ]
+        },
+        {
+            "question": "Which of the following best describes the leadership volatility observed at OpenAI in late 2023?",
+            "choices": [
+                "A dispute over international tax regulations.",
+                "A conflict regarding the choice of cloud service providers.",
+                "Internal disagreements driven by concerns over AI safety and the pace of development.",
+                "A disagreement over the visual design of the company logo"
+            ],
+            "answer": [
+                "Internal disagreements driven by concerns over AI safety and the pace of development."
+            ]
+        },
+        {
+            "question": "True or False: A key characteristic of AI is its complete inability to be biased as it is based on math and data.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "question": "The e-paarvai case study emphasized that AI Deployment was only successful after complementary investments were made. This concept refers to:",
+            "choices": [
+                "Buying more powerful servers and faster mobile devices for the AI model.",
+                "Investing in training healthcare workers/volunteers on how to use the app and optimizing the end-to-end patient referral process.",
+                "Paying for advertising and marketing to promote the AI app to the general public.",
+                "Funding the initial R&D to build the AI model itself."
+            ],
+            "answer": [
+                "Investing in training healthcare workers/volunteers on how to use the app and optimizing the end-to-end patient referral process."
+            ]
+        }
+    ],
+    "Week 2 : Assignment 2": [
+        {
+            "question": "A key limitation of machine-learning systems is that they:",
+            "choices": [
+                "Automatically reason using deep commonsense knowledge",
+                "Typically generalize well even with very small datasets",
+                "Can be easily misled by small, imperceptible changes in input",
+                "Do not need supervision or quality checks"
+            ],
+            "answer": [
+                "Can be easily misled by small, imperceptible changes in input"
+            ]
+        },
+        {
+            "question": "When a flexible ML model fits noise in the dataset and identifies misleading relationships, what is this problem called?",
+            "choices": [
+                "Underfitting",
+                "Overfitting",
+                "Data leakage",
+                "Regularization failure"
+            ],
+            "answer": [
+                "Overfitting"
+            ]
+        },
+        {
+            "question": "Which of the following are characteristics of Supervised Learning? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "The training data includes a \u2018target\u2019 or \u2018label\u2019.",
+                "It is used for tasks like predicting house prices (Regression) or classifying email spam (Classification).",
+                "The algorithm tries to find hidden patterns in data without any guidance.",
+                "The goal is to learn a mapping function from input to output."
+            ],
+            "answer": [
+                "The training data includes a \u2018target\u2019 or \u2018label\u2019.",
+                "It is used for tasks like predicting house prices (Regression) or classifying email spam (Classification).",
+                "The goal is to learn a mapping function from input to output."
+            ]
+        },
+        {
+            "question": "Perceptron training may fail to converge because:",
+            "choices": [
+                "The learning rate is too high",
+                "The error is computed incorrectly",
+                "The data is not linearly separable",
+                "It cannot compute gradients"
+            ],
+            "answer": [
+                "The data is not linearly separable"
+            ]
+        },
+        {
+            "question": "Backpropagation was introduced as a solution primarily because:",
+            "choices": [
+                "Perceptrons could not adjust bias terms",
+                "Single-layer perceptrons cannot solve nonlinear patterns",
+                "Perceptrons lacked a transfer function",
+                "Linear units cause numerical instability"
+            ],
+            "answer": [
+                "Single-layer perceptrons cannot solve nonlinear patterns"
+            ]
+        },
+        {
+            "question": "The error function E(w) in backpropagation for a linear unit is defined as:",
+            "choices": [
+                "Sum of absolute errors",
+                "Half the squared difference between target and output",
+                "Weighted cross entropy",
+                "Product of outputs across layers"
+            ],
+            "answer": [
+                "Half the squared difference between target and output"
+            ]
+        },
+        {
+            "question": "Increasing the size of the hidden layer in a feed-forward network of ANN, primarily:",
+            "choices": [
+                "Reduces the expressive power of the network",
+                "Ensures that the output has only one dimension",
+                "Increases the risk of overfitting while capturing more patterns",
+                "Forces the activation functions to become linear"
+            ],
+            "answer": [
+                "Increases the risk of overfitting while capturing more patterns"
+            ]
+        },
+        {
+            "question": "Compared to a single-layer network, adding a hidden layer allows the ANN to:",
+            "choices": [
+                "Ensure linear separability of all input patterns",
+                "Recognize more complex patterns via intermediate activations",
+                "Remove the need for bias weights",
+                "Guarantee zero training error"
+            ],
+            "answer": [
+                "Recognize more complex patterns via intermediate activations"
+            ]
+        },
+        {
+            "question": "What are the four components typically found in a microeconomic time series, such as stock market data?",
+            "choices": [
+                "Trend, Fluctuation, Forecast, and Error",
+                "Growth, Decline, Stability, and Volatility",
+                "Mean, Median, Mode, and Range",
+                "Trend, Seasonality, Cyclicity, and Randomness"
+            ],
+            "answer": [
+                "Trend, Seasonality, Cyclicity, and Randomness"
+            ]
+        },
+        {
+            "question": "What is the main distinction between \u201cwhite box models\u201d (like standard econometric models) and Neural Networks?",
+            "choices": [
+                "White box models are limited to time series data.",
+                "Neural Networks use different programming languages.",
+                "Neural Networks are generally not interpretable, while white box models are interpretable.",
+                "White box models perform better than Neural Networks."
+            ],
+            "answer": [
+                "Neural Networks are generally not interpretable, while white box models are interpretable."
+            ]
+        }
+    ],
+    "Week 3 : Assignment 3": [
+        {
+            "question": "Which of Michael Porter's generic strategies seeks to achieve a competitive advantage by producing and selling products at a lower price than rivals for the same quality and grade?",
+            "choices": [
+                "Differentiation",
+                "Focus Strategy",
+                "Cost Leadership",
+                "Turnaround Strategy"
+            ],
+            "answer": [
+                "Cost Leadership"
+            ]
+        },
+        {
+            "question": "The IT Strategic Grid categorizes a new technology initiative that has a low impact on an organization's overall strategy but a high impact on its day-to-day operations and efficiency as falling into which quadrant?",
+            "choices": [
+                "Strategic",
+                "Support",
+                "Turnaround",
+                "Factory"
+            ],
+            "answer": [
+                "Factory"
+            ]
+        },
+        {
+            "question": "In Porter's original Value Chain framework (1985), Information Technology was typically depicted as a:",
+            "choices": [
+                "Support activity",
+                "Primary activity",
+                "Strategic activity",
+                "Outbound logistics activity"
+            ],
+            "answer": [
+                "Support activity"
+            ]
+        },
+        {
+            "question": "The concept of \u201cBusiness Model\u201d evolved in management literature primarily following the 2000s dot-com bubble burst because:",
+            "choices": [
+                "Investors required clear evidence of how new, technology-based businesses would convert value creation into monetization.",
+                "Organizations needed a new way to structure their accounting.",
+                "Firms needed a framework to manage internal IT projects.",
+                "Existing competitive strategy frameworks were found to be entirely obsolete"
+            ],
+            "answer": [
+                "Investors required clear evidence of how new, technology-based businesses would convert value creation into monetization."
+            ]
+        },
+        {
+            "question": "Which of the following are considered primary activities in Michael Porter's Value Chain framework? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Inbound Logistics",
+                "Technology Development",
+                "Service",
+                "Human Resource Management"
+            ],
+            "answer": [
+                "Inbound Logistics",
+                "Service"
+            ]
+        },
+        {
+            "question": "In the context of digital platforms, the concept that the value of a platform increases with the number of users is known as:",
+            "choices": [
+                "Market capitalization effect",
+                "Digital ecosystem orchestration",
+                "Viral monetization",
+                "Network effect"
+            ],
+            "answer": [
+                "Network effect"
+            ]
+        },
+        {
+            "question": "In the definition of a digital platform, who is responsible for setting the \u201cgovernance conditions\u201d or the rules of the game for interactions between external producers and consumers?",
+            "choices": [
+                "The external producers",
+                "The consumers or users",
+                "The government regulatory body",
+                "The platform owner"
+            ],
+            "answer": [
+                "The platform owner"
+            ]
+        },
+        {
+            "question": "Which AI business model capitalizes on the necessity of large volumes of curated information for developing algorithms?",
+            "choices": [
+                "AI Product as a Service",
+                "AI-Driven Platforms",
+                "AI Data Monetization",
+                "End-to-End Encrypted Ecosystems"
+            ],
+            "answer": [
+                "AI Data Monetization"
+            ]
+        },
+        {
+            "question": "The shift of a professional networking site like LinkedIn to incorporate more social posts (e.g: conference interactions) is primarily a strategy aimed at:",
+            "choices": [
+                "Eliminating its existing professional networking competitors.",
+                "Moving away from the matchmaking business model.",
+                "Preparing to adopt a software-as-a-product model.",
+                "Sustaining user engagement and active participation on the platform."
+            ],
+            "answer": [
+                "Sustaining user engagement and active participation on the platform."
+            ]
+        },
+        {
+            "question": "\u201cFrictionless entry\u201d in platform strategy primarily enables:",
+            "choices": [
+                "Lower operational costs for the platform owner",
+                "Rapid participation growth that accelerates network effects",
+                "Higher pricing control over complements",
+                "Increased regulation of user-generated value"
+            ],
+            "answer": [
+                "Rapid participation growth that accelerates network effects"
+            ]
+        }
+    ],
+    "Week 4 : Assignment 4": [
+        {
+            "question": "In the context of digital platforms, which statement best defines an \u201cecosystem\u201d business model?",
+            "choices": [
+                "A platform where a single firm controls all aspects of the value chain.",
+                "A system characterized by buy-and-sell relationships defined by direct transactions.",
+                "A system where multiple, diverse stakeholders with different interests are integrated to create orchestrated value exchanges.",
+                "A platform designed primarily for monetizing user data through direct sales."
+            ],
+            "answer": [
+                "A system where multiple, diverse stakeholders with different interests are integrated to create orchestrated value exchanges."
+            ]
+        },
+        {
+            "question": "The primary strategic differentiation of a highly successful short-form video platform is attributed to its adoption of which type of recommender system filtering?",
+            "choices": [
+                "Hybrid Filtering",
+                "Content-Based Filtering",
+                "Collaborative Filtering",
+                "Demographics-Based Filtering"
+            ],
+            "answer": [
+                "Content-Based Filtering"
+            ]
+        },
+        {
+            "question": "Which component became the technical engine for efficient AI training and deployment, particularly noted for its use in tensor-level computation?",
+            "choices": [
+                "CPU (Central Processing Unit)",
+                "ASIC (Application-Specific Integrated Circuit)",
+                "FPGA (Field-Programmable Gate Array)",
+                "GPU (Graphics Processing Unit)"
+            ],
+            "answer": [
+                "GPU (Graphics Processing Unit)"
+            ]
+        },
+        {
+            "question": "A content-based filtering system profiles a user primarily by tracking which of the following?",
+            "choices": [
+                "The preferences of users with similar demographics .",
+                "The aggregate number of downloads for all content.",
+                "The total amount of money spent by the user on virtual goods.",
+                "Key attributes of content usage, such as time watched and comments made on specific videos"
+            ],
+            "answer": [
+                "Key attributes of content usage, such as time watched and comments made on specific videos"
+            ]
+        },
+        {
+            "question": "The phenomenal growth of computer vision models in AI was significantly enabled by the creation of which large-scale, annotated dataset?",
+            "choices": [
+                "ImageNet",
+                "WordNet",
+                "DBPedia",
+                "Common Crawl"
+            ],
+            "answer": [
+                "ImageNet"
+            ]
+        },
+        {
+            "question": "A company achieves a significant cost advantage in its digital platform business model primarily because the content is supplied by its users. This advantage is derived from:",
+            "choices": [
+                "Lower infrastructure optimization costs.",
+                "Elimination of all advertising revenue streams.",
+                "Reduced cost of input.",
+                "Exclusive reliance on collaborative filtering."
+            ],
+            "answer": [
+                "Reduced cost of input."
+            ]
+        },
+        {
+            "question": "Which of the following areas represent revenue streams used by digital platforms for monetization? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Virtual gifts",
+                "Embedded e-commerce",
+                "Branded hashtag challenges",
+                "Charging a flat fee for all users to sign in"
+            ],
+            "answer": [
+                "Virtual gifts",
+                "Embedded e-commerce",
+                "Branded hashtag challenges"
+            ]
+        },
+        {
+            "question": "What is the defining characteristic of a \u201cUnicorn\u201d company in the startup landscape?",
+            "choices": [
+                "A publicly traded startup with a valuation over $1 billion.",
+                "A privately owned startup with a valuation of over $1 billion.",
+                "A tech-driven company focused solely on B2B AI products.",
+                "A company that has achieved global reach in over 75 countries."
+            ],
+            "answer": [
+                "A privately owned startup with a valuation of over $1 billion."
+            ]
+        },
+        {
+            "question": "Porter's Generic Strategies identify which two fundamental types of competitive advantage?",
+            "choices": [
+                "Market Concentration and Differentiation",
+                "Cost Advantage and Core Competency",
+                "Differentiation and Cost Advantage",
+                "Technological Leadership and Network Effects"
+            ],
+            "answer": [
+                "Differentiation and Cost Advantage"
+            ]
+        },
+        {
+            "question": "The freemium monetization strategy for digital platforms is characterized by:",
+            "choices": [
+                "Model where basic services are free, but users pay for enhanced functionality.",
+                "All services being provided completely free of charge.",
+                "Charging users based strictly on their historical content preferences.",
+                "Relying solely on virtual gifts and e-commerce for revenue."
+            ],
+            "answer": [
+                "Model where basic services are free, but users pay for enhanced functionality."
+            ]
+        }
+    ],
+    "Week 5 : Assignment 5": [
+        {
+            "question": "Which source of business value from AI is primarily focused on reducing costs and increasing efficiency by replacing human labor with algorithms for rule-based activities?",
+            "choices": [
+                "Coordination",
+                "Anticipation",
+                "Personalization",
+                "Automation"
+            ],
+            "answer": [
+                "Automation"
+            ]
+        },
+        {
+            "question": "In the context of business value derived from AI, \u2018Anticipation\u2019 is primarily achieved through:",
+            "choices": [
+                "Automating transactional processes",
+                "Reducing the cost of internal coordination",
+                "Deploying predictive algorithms and forecasting models to improve decision quality",
+                "Customizing products and services for individual users"
+            ],
+            "answer": [
+                "Deploying predictive algorithms and forecasting models to improve decision quality"
+            ]
+        },
+        {
+            "question": "Business model is generally associated with which side of the market dynamic?",
+            "choices": [
+                "The external competitive landscape (Michael Porter\u2019s view).",
+                "The demand side, focusing on what value the user receives.",
+                "The supply side, focusing on how a firm creates, delivers, and monetizes value.",
+                "The internal view of strengths and weaknesses (SWOT analysis)."
+            ],
+            "answer": [
+                "The supply side, focusing on how a firm creates, delivers, and monetizes value."
+            ]
+        },
+        {
+            "question": "According to the resource-based view (RBV) of strategy, which characteristic is essential for a resource, such as an AI capability, to become a source of sustainable competitive advantage?",
+            "choices": [
+                "Must be easily deployed across various organizational units.",
+                "Must be valuable, rare, and inimitable.",
+                "Must directly reduce operational costs (bottom line).",
+                "Must be supported by a dedicated technology leadership structure."
+            ],
+            "answer": [
+                "Must be valuable, rare, and inimitable."
+            ]
+        },
+        {
+            "question": "An AI capability is a combination of the AI technology asset and which other essential complementary factors? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "People and talent",
+                "Market knowledge",
+                "Organizational culture",
+                "Branded hashtag challenges",
+                "Training and incentives"
+            ],
+            "answer": [
+                "People and talent",
+                "Market knowledge",
+                "Organizational culture",
+                "Training and incentives"
+            ]
+        },
+        {
+            "question": "According to Transaction Cost Economics (TCE), a firm's decision to perform an activity internally (make) versus outsourcing it to the market (buy) is primarily based on a comparison of:",
+            "choices": [
+                "Production cost versus quality assurance cost.",
+                "Total cost, which includes production cost and transaction cost.",
+                "Fixed cost versus variable cost.",
+                "Sunk cost versus opportunity cost."
+            ],
+            "answer": [
+                "Total cost, which includes production cost and transaction cost."
+            ]
+        },
+        {
+            "question": "In the context of implementing an AI solution sourced from an external provider (AI-as-a-Product), a key component of the transaction cost is the:",
+            "choices": [
+                "Cost of the supplier's computational resources.",
+                "Cost of production due to market efficiency.",
+                "Cost of coordination, which includes searching, contracting, monitoring, and enforcing the contract.",
+                "Cost of training the customer's internal team on the new AI product."
+            ],
+            "answer": [
+                "Cost of coordination, which includes searching, contracting, monitoring, and enforcing the contract."
+            ]
+        },
+        {
+            "question": "The transaction costs introduced by Transaction Cost Economics (TCE) consist of two main components. These are:",
+            "choices": [
+                "Market efficiency and production cost.",
+                "Fixed cost and variable cost.",
+                "Coordination cost and transaction risk.",
+                "Sourcing cost and deployment cost."
+            ],
+            "answer": [
+                "Coordination cost and transaction risk."
+            ]
+        },
+        {
+            "question": "Which concept accounts for the reduction in cost per unit when a product or service provider increases its total volume of output, thereby spreading fixed costs over a larger base?",
+            "choices": [
+                "Economies of Scope",
+                "Economies of Specialization",
+                "Learning Curve Advantage",
+                "Economies of Scale"
+            ],
+            "answer": [
+                "Economies of Scale"
+            ]
+        },
+        {
+            "question": "A firm has implemented an AI-powered customer service solution to improve operational efficiency and customer experience. To evaluate whether this investment is generating business value, the firm needs measurable performance indicators that serve as proxies for business value. Which of the following are appropriate business performance indicators for this purpose (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Escalation Rate, defined as the proportion of customer service tickets that are escalated to human agents.",
+                "Total Fixed Cost incurred in developing the AI system by the firm.",
+                "Average Resolution Time, measured as the average time taken to resolve customer service tickets.",
+                "LLM-generated Sentiment Score, reflecting customer sentiment derived from interactions."
+            ],
+            "answer": [
+                "Escalation Rate, defined as the proportion of customer service tickets that are escalated to human agents.",
+                "Average Resolution Time, measured as the average time taken to resolve customer service tickets.",
+                "LLM-generated Sentiment Score, reflecting customer sentiment derived from interactions."
+            ]
+        }
+    ],
+    "Week 6 : Assignment 6": [
+        {
+            "question": "For C-suite executives such as CFO or a CEO, which category of metrics is generally considered the most compelling evidence of an AI project's success?",
+            "choices": [
+                "Technical metrics like AUC, Precision, and Recall.",
+                "Operational metrics like process efficiency and speed of delivery.",
+                "Financial metrics such as incremental revenue, cost savings, and Customer Lifetime Value (CLV).",
+                "Indirect metrics like brand reputation and employee productivity."
+            ],
+            "answer": [
+                "Financial metrics such as incremental revenue, cost savings, and Customer Lifetime Value (CLV)."
+            ]
+        },
+        {
+            "question": "In the context of establishing causality for a new targeted business intervention (e.g: an AI-driven campaign), which method is considered the \u201cgold standard\u201d for measuring impact and eliminating confounding variables?",
+            "choices": [
+                "Before and After Analysis.",
+                "Cohort Analysis.",
+                "Synthetic Control Method.",
+                "Randomized Controlled A/B Testing."
+            ],
+            "answer": [
+                "Randomized Controlled A/B Testing."
+            ]
+        },
+        {
+            "question": "The Synthetic Control Method (SCM) is often employed as an alternative to A/B testing in real-world business scenarios. What is the fundamental advantage SCM offers over a simple \u201cBefore and After\u201d analysis?",
+            "choices": [
+                "It eliminates the need for any control group, simplifying deployment.",
+                "It statistically creates a counterfactual control group that is comparable to the treated group, helping to establish causality when randomization is not feasible.",
+                "It allows for the measurement of indirect metrics like brand reputation.",
+                "It only requires technical metrics for validation."
+            ],
+            "answer": [
+                "It statistically creates a counterfactual control group that is comparable to the treated group, helping to establish causality when randomization is not feasible."
+            ]
+        },
+        {
+            "question": "Which of the following best describes the primary challenge for the adoption and scaling of AI projects in a business context?",
+            "choices": [
+                "The computational complexity and high cost of training deep learning models.",
+                "The difficulty in acquiring and cleaning large, high-quality labeled datasets.",
+                "Proving a tangible, measurable business value (ROI) to non-technical stakeholders.",
+                "The shortage of qualified Machine Learning Engineers and Data Scientists."
+            ],
+            "answer": [
+                "Proving a tangible, measurable business value (ROI) to non-technical stakeholders."
+            ]
+        },
+        {
+            "question": "When evaluating a binary classification model (e.g: credit default prediction) where the positive class (default) is extremely rare (e.g: < 5% of the population), why is model accuracy alone an unreliable metric?",
+            "choices": [
+                "Accuracy is sensitive to the choice of the classification threshold.",
+                "Accuracy penalizes false positives too heavily.",
+                "A naive model that always predicts the majority (negative) class can still achieve a very high accuracy.",
+                "It fails to account for the financial cost of false negatives (bad loans)."
+            ],
+            "answer": [
+                "A naive model that always predicts the majority (negative) class can still achieve a very high accuracy."
+            ]
+        },
+        {
+            "question": "A model is developed for predicting the likelihood of a high-value transaction. From a Data Scientist's perspective, which of the following technical metrics are relevant for assessing the model's discriminative power and performance? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Area Under the ROC Curve (AUC).",
+                "Precision and Recall.",
+                "Kolmogorov-Smirnov (KS) Statistic.",
+                "Customer Lifetime Value (CLV)."
+            ],
+            "answer": [
+                "Area Under the ROC Curve (AUC).",
+                "Precision and Recall.",
+                "Kolmogorov-Smirnov (KS) Statistic."
+            ]
+        },
+        {
+            "question": "The hierarchy of measurement in AI value involves technical, operational, and financial metrics. Which of the following map to the \"Operational\" level metrics that a line manager would typically prioritize? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Process efficiency.",
+                "Increased speed of delivery.",
+                "Automation of manual tasks.",
+                "Model Accuracy.",
+                "Increased Revenue."
+            ],
+            "answer": [
+                "Process efficiency.",
+                "Increased speed of delivery.",
+                "Automation of manual tasks."
+            ]
+        },
+        {
+            "question": "When assessing the performance of a Feed Ranking Algorithm, which of the following technical metrics are specifically designed to penalize non-relevant items appearing high in the list and reward relevant items appearing near the top? (Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Mean Reciprocal Rank",
+                "Normalized Discounted Cumulative Gain",
+                "Precision and Recall",
+                "F1-Score"
+            ],
+            "answer": [
+                "Mean Reciprocal Rank",
+                "Normalized Discounted Cumulative Gain"
+            ]
+        },
+        {
+            "question": "When determining the net incremental profit of a new credit approval model using a \u201cSwap Set Analysis\u201d, the monetary value of approved \u2018Good Customers\u2019 is calculated using LTV, and the cost of approved 'Bad Customers' is calculated using LGD. This methodology ensures the AI\u2019s value is measured in terms of:",
+            "choices": [
+                "Technical model discrimination power (KS statistic).",
+                "Operational efficiency (approval speed).",
+                "Financial metrics (net profit) while maintaining a fixed business constraint (loss rate).",
+                "Indirect metrics like brand reputation."
+            ],
+            "answer": [
+                "Financial metrics (net profit) while maintaining a fixed business constraint (loss rate)."
+            ]
+        },
+        {
+            "question": "Why is the Kolmogorov-Smirnov (KS) statistic, often used in credit scoring, a preferred model evaluation metric over simple Accuracy in scenarios with severe class imbalance (e.g., loan default prediction)?",
+            "choices": [
+                "KS statistic measures the financial profit gained from the model's decisions, which accuracy ignores.",
+                "KS statistic is invariant to the classification threshold, unlike Accuracy.",
+                "KS statistic measures the maximum separation between the cumulative distribution functions of positive and negative class scores, directly reflecting the model's discriminatory power across all possible thresholds.",
+                "KS statistic inherently incorporates the Loss Given Default (LGD) into its calculation."
+            ],
+            "answer": [
+                "KS statistic measures the maximum separation between the cumulative distribution functions of positive and negative class scores, directly reflecting the model's discriminatory power across all possible thresholds."
+            ]
+        }
+    ],
+    "Week 7 : Assignment 7": [
+        {
+            "question": "Which level of management primarily deals with structured, routine decisions supported by standard procedures?",
+            "choices": [
+                "Strategic management",
+                "Tactical management",
+                "Operational management",
+                "Corporate governance"
+            ],
+            "answer": [
+                "Operational management"
+            ]
+        },
+        {
+            "question": "Which of the following best represents an unstructured decision requiring judgment and strategic evaluation?",
+            "choices": [
+                "Processing employee payroll",
+                "Reordering inventory stock",
+                "Approving a long-term capital investment",
+                "Recording daily sales transactions"
+            ],
+            "answer": [
+                "Approving a long-term capital investment"
+            ]
+        },
+        {
+            "question": "Which managerial activity is best classified as a semistructured decision, combining analytical models with managerial judgment?",
+            "choices": [
+                "Issuing customer invoices",
+                "Designing a marketing strategy",
+                "Updating employee attendance logs",
+                "Recording point-of-sale transactions"
+            ],
+            "answer": [
+                "Designing a marketing strategy"
+            ]
+        },
+        {
+            "question": "Which of the following is a core component of BI infrastructure that enables storage and analysis of organizational data?",
+            "choices": [
+                "Balanced scorecard",
+                "Data warehouse",
+                "Corporate strategy framework",
+                "Customer loyalty program"
+            ],
+            "answer": [
+                "Data warehouse"
+            ]
+        },
+        {
+            "question": "SHAP and LIME are commonly used in explainable AI (XAI) to help stakeholders understand how complex machine learning models arrive at specific predictions. In a business context where transparency and accountability are important, what is the primary purpose of these techniques?",
+            "choices": [
+                "To improve the training accuracy of neural networks",
+                "To reduce the size of datasets used for model training",
+                "To explain individual model predictions by showing feature contributions",
+                "To clean and enhance data quality before analysis"
+            ],
+            "answer": [
+                "To explain individual model predictions by showing feature contributions"
+            ]
+        },
+        {
+            "question": "AI-based decision systems perform best when:",
+            "choices": [
+                "Problems are ambiguous and loosely defined",
+                "Decisions rely heavily on intuition",
+                "Objectives, constraints, and alternatives are clearly specified",
+                "Human judgment is minimized entirely"
+            ],
+            "answer": [
+                "Objectives, constraints, and alternatives are clearly specified"
+            ]
+        },
+        {
+            "question": "Which capability most clearly distinguishes an AI agent from an AI assistant?",
+            "choices": [
+                "Conversational interaction with users",
+                "Providing reports and dashboards",
+                "Autocratically replacing managers",
+                "Autonomously designing workflows and executing tasks"
+            ],
+            "answer": [
+                "Autonomously designing workflows and executing tasks"
+            ]
+        },
+        {
+            "question": "A retail company observes that customers who follow its social media page spend approximately 8% more annually than those who do not. Managers are considering increasing marketing investment based on this insight. Which interpretation is most appropriate?",
+            "choices": [
+                "Following the page directly causes customers to spend more",
+                "Social media engagement guarantees higher future revenue",
+                "The observed relationship is correlational and may reflect underlying customer loyalty or engagement",
+                "Social media marketing should be discontinued"
+            ],
+            "answer": [
+                "The observed relationship is correlational and may reflect underlying customer loyalty or engagement"
+            ]
+        },
+        {
+            "question": "Managers evaluating a vendor proposal rely heavily on the first quoted price they see, even after reviewing better alternatives. This illustrates:",
+            "choices": [
+                "Confirmation bias",
+                "Anchoring bias",
+                "Selective perception",
+                "Overconfidence bias"
+            ],
+            "answer": [
+                "Anchoring bias"
+            ]
+        },
+        {
+            "question": "A bank finds that a complex neural network and a simpler logistic regression model achieve similar accuracy in loan approval predictions. From a governance and accountability perspective, which approach is most appropriate?",
+            "choices": [
+                "Deploy the neural network to demonstrate technological sophistication",
+                "Use the simpler model because its decisions are transparent and explainable",
+                "Combine both models without evaluating interpretability",
+                "Avoid automation due to regulatory risks"
+            ],
+            "answer": [
+                "Use the simpler model because its decisions are transparent and explainable"
+            ]
+        }
+    ],
+    "Week 8 : Assignment 8": [
+        {
+            "question": "What is the primary limitation of traditional Feed Forward Neural Networks when scaled to include a very large number of hidden layers and trained with standard Backpropagation algorithms?",
+            "choices": [
+                "Overfitting in the final output layer.",
+                "Inefficient computation of activation functions.",
+                "The Vanishing Gradient Problem.",
+                "Difficulty in processing sequential data structures."
+            ],
+            "answer": [
+                "The Vanishing Gradient Problem."
+            ]
+        },
+        {
+            "question": "Convolutional Neural Networks (CNNs) are architecturally optimized for which of the following applications?",
+            "choices": [
+                "Time series forecasting.",
+                "Sequence-to-sequence translation.",
+                "Computer vision and image recognition.",
+                "Generating continuous text streams."
+            ],
+            "answer": [
+                "Computer vision and image recognition."
+            ]
+        },
+        {
+            "question": "The core innovation enabling a transformer model to capture the complex relationships between words in a sequence, irrespective of their distance, is known as:",
+            "choices": [
+                "Positional Encoding.",
+                "The Softmax Normalization",
+                "Multi-head Self-Attention Mechanism",
+                "Gradient Descent Optimization"
+            ],
+            "answer": [
+                "Multi-head Self-Attention Mechanism"
+            ]
+        },
+        {
+            "question": "In the context of transformer architecture, which component combines the semantic representation of a word with information regarding its order within the input sentence?",
+            "choices": [
+                "The Decoder Block",
+                "Word Embedding with Positional Encoding",
+                "The Query-Key-Value (QKV) triplet",
+                "The Feed Forward Network Layer"
+            ],
+            "answer": [
+                "Word Embedding with Positional Encoding"
+            ]
+        },
+        {
+            "question": "Which term describes the process of adapting a pre-trained Large Language Model (LLM) to a new, specific context or domain using a smaller, contextually relevant dataset?",
+            "choices": [
+                "Unsupervised learning",
+                "Fine-tuning or Retraining",
+                "Zero-shot learning",
+                "Batch normalization"
+            ],
+            "answer": [
+                "Fine-tuning or Retraining"
+            ]
+        },
+        {
+            "question": "In a sequence modeling task, the primary function of the recurrent connection in a Recurrent Neural Network (RNN) hidden layer is to:",
+            "choices": [
+                "Distribute data across thousands of parallel layers.",
+                "Ensure computational efficiency for large matrix multiplication",
+                "Provide a memory of previous inputs by passing the hidden state from one time step to the next.",
+                "Prevent the vanishing gradient problem inherent in deep networks"
+            ],
+            "answer": [
+                "Provide a memory of previous inputs by passing the hidden state from one time step to the next."
+            ]
+        },
+        {
+            "question": "In the transformer architecture, the overall transformation of an input sequence to an output sequence is executed by which two major architectural blocks?(Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "Encoder Block",
+                "Softmax Block",
+                "Decoder Block",
+                "Gradient Descent Block"
+            ],
+            "answer": [
+                "Encoder Block",
+                "Decoder Block"
+            ]
+        },
+        {
+            "question": "Which statement best captures what an RNN adds compared to a feed-forward network?",
+            "choices": [
+                "Processes each input independently, with no stored context",
+                "Maintains a hidden state that carries context across time steps",
+                "Trains a separate explainer model alongside the predictor",
+                "Removes hidden layers to simplify the network structure"
+            ],
+            "answer": [
+                "Maintains a hidden state that carries context across time steps"
+            ]
+        },
+        {
+            "question": "When an RNN is unfolded across time steps, the replicated cells:",
+            "choices": [
+                "Have different weights to learn step-specific patterns",
+                "Share the same weights, enabling efficient learning",
+                "Eliminate the need for backpropagation",
+                "Convert the problem into a one-to-one mapping"
+            ],
+            "answer": [
+                "Share the same weights, enabling efficient learning"
+            ]
+        },
+        {
+            "question": "You are using an LSTM for weekly demand forecasting. During training you notice the model\u2019s internal memory \n\ud835\udc36\n\ud835\udc61\n\ud835\udc36\n\ud835\udc61\n seems to retain useful long-term context, but the predictions remain overly reactive to short-term noise. You suspect the issue is not what is stored, but what is revealed to downstream layers as ht. Which gate should you focus on tuning/diagnosing?",
+            "choices": [
+                "Forget gate (controls what is removed from \n\ud835\udc36\n\ud835\udc61\u22121\n\ud835\udc36\n\ud835\udc61\n\u2212\n1\n)",
+                "Input gate (controls what new information enters \n\ud835\udc36\n\ud835\udc61\n\ud835\udc36\n\ud835\udc61\n)",
+                "Output gate (controls what portion of \n\ud835\udc36\n\ud835\udc61\n\ud835\udc36\n\ud835\udc61\n is exposed as \n\ud835\udc3b\n\ud835\udc61\n\ud835\udc3b\n\ud835\udc61\n)",
+                "State retention gate"
+            ],
+            "answer": [
+                "Output gate (controls what portion of",
+                "\ud835\udc36",
+                "\ud835\udc61",
+                "\ud835\udc36",
+                "\ud835\udc61",
+                "is exposed as",
+                "\ud835\udc3b",
+                "\ud835\udc61",
+                "\ud835\udc3b",
+                "\ud835\udc61",
+                ")"
+            ]
+        }
+    ],
+    "Week 9: Assignment 9": [
+        {
+            "question": "Which of the following best represents the typical process of risk management?",
+            "choices": [
+                "Risk control \u2192 Risk identification \u2192 Risk assessment",
+                "Risk identification \u2192 Risk assessment \u2192 Risk control",
+                "Risk assessment \u2192 Risk mitigation \u2192 Risk identification",
+                "Risk monitoring \u2192 Risk identification \u2192 Risk response"
+            ],
+            "answer": [
+                "Risk identification \u2192 Risk assessment \u2192 Risk control"
+            ]
+        },
+        {
+            "question": "In a quantitative risk assessment framework, risk is often modeled as a function of which factors?",
+            "choices": [
+                "Threat probability, success probability of attack, exposure of assets, and asset value",
+                "Organizational culture, governance strength, and technology maturity",
+                "Regulatory pressure, innovation capability, and investment cost",
+                "Data volume, model complexity, and infrastructure capacity"
+            ],
+            "answer": [
+                "Threat probability, success probability of attack, exposure of assets, and asset value"
+            ]
+        },
+        {
+            "question": "In risk measurement models, the term measurement error refers to:",
+            "choices": [
+                "The probability that a threat will occur",
+                "The uncertainty or inaccuracy in estimating risk parameters",
+                "The financial loss due to an attack",
+                "The technical failure of a risk detection system"
+            ],
+            "answer": [
+                "The uncertainty or inaccuracy in estimating risk parameters"
+            ]
+        },
+        {
+            "question": "Risk assessments in AI-enabled systems can typically be conducted at which levels?",
+            "choices": [
+                "Technical, financial, and operational",
+                "Individual, organizational, and national",
+                "Algorithmic, computational, and infrastructural",
+                "Ethical, regulatory, and cultural"
+            ],
+            "answer": [
+                "Individual, organizational, and national"
+            ]
+        },
+        {
+            "question": "Which of the following represents a tangible and measurable impact of AI system failure?",
+            "choices": [
+                "Loss of trust in technology",
+                "Psychological distress caused by system errors",
+                "Cost resulting from incorrect automated decisions",
+                "Long-term reputational damage"
+            ],
+            "answer": [
+                "Cost resulting from incorrect automated decisions"
+            ]
+        },
+        {
+            "question": "Threats to information systems can broadly be classified into which two categories?",
+            "choices": [
+                "Strategic and operational",
+                "Internal and external",
+                "Malicious and unintentional",
+                "Physical and digital"
+            ],
+            "answer": [
+                "Malicious and unintentional"
+            ]
+        },
+        {
+            "question": "Which of the following is an example of a malicious attack on machine learning systems?",
+            "choices": [
+                "Model overfitting during training",
+                "Data poisoning during the training phase",
+                "Poor feature selection in model design",
+                "Insufficient computing resources"
+            ],
+            "answer": [
+                "Data poisoning during the training phase"
+            ]
+        },
+        {
+            "question": "An adversarial input attack primarily aims to:",
+            "choices": [
+                "Increase the computational efficiency of AI systems",
+                "Improve model generalization",
+                "Manipulate inputs to cause incorrect predictions",
+                "Reduce model bias during training"
+            ],
+            "answer": [
+                "Manipulate inputs to cause incorrect predictions"
+            ]
+        },
+        {
+            "question": "Environmental concerns associated with large AI models mainly arise due to:",
+            "choices": [
+                "High licensing costs of AI software",
+                "Extensive energy consumption and carbon emissions during training",
+                "Lack of regulatory oversight in AI development",
+                "Limited availability of training datasets"
+            ],
+            "answer": [
+                "Extensive energy consumption and carbon emissions during training"
+            ]
+        },
+        {
+            "question": "A common criticism of large AI models trained on internet-scale data is that:",
+            "choices": [
+                "They rely only on proprietary corporate datasets",
+                "Their training data may not represent the diversity of global populations",
+                "They cannot process structured datasets",
+                "They are incapable of learning language patterns"
+            ],
+            "answer": [
+                "Their training data may not represent the diversity of global populations"
+            ]
+        }
+    ],
+    "Week 10 : Assignment 10": [
+        {
+            "question": "At its most fundamental architectural level, what is the primary operational objective of a base Large Language Model (LLM)?",
+            "choices": [
+                "To understand and replicate human emotional intent.",
+                "To perform recursive semantic analysis on a global knowledge base.",
+                "To predict the most statistically likely subsequent token in a sequence.",
+                "To execute logic-based reasoning through symbolic AI integration"
+            ],
+            "answer": [
+                "To predict the most statistically likely subsequent token in a sequence."
+            ]
+        },
+        {
+            "question": "Which parameter directly influences the probability distribution of the next token by \"flattening\" or \"sharpening\" the logits before the softmax function is applied?",
+            "choices": [
+                "Top-P (Nucleus Sampling)",
+                "Top-K",
+                "Temperature",
+                "Frequency Penalty"
+            ],
+            "answer": [
+                "Temperature"
+            ]
+        },
+        {
+            "question": "In the context of LLM security, what constitutes a \"Prompt Injection\" attack?",
+            "choices": [
+                "Using brute force to guess the API key of a third-party model.",
+                "Overwhelming a model's context window with repetitive tokens to cause a denial-of-service (DoS).",
+                "Crafting inputs that cause the model to ignore its system instructions and follow user-provided adversarial commands.",
+                "Injecting malicious Python code into a vector database to corrupt embedding search"
+            ],
+            "answer": [
+                "Crafting inputs that cause the model to ignore its system instructions and follow user-provided adversarial commands."
+            ]
+        },
+        {
+            "question": "How does Retrieval-Augmented Generation (RAG) primarily mitigate the issue of \"knowledge cutoff\"?",
+            "choices": [
+                "By dynamically fine-tuning the base model's weights on real-time data.",
+                "By expanding the model\u2019s internal parameter count to include recent news",
+                "By fetching relevant document chunks from an external database and appending them to the prompt context.",
+                "By increasing the model's temperature to allow it to \"guess\" events beyond its training date"
+            ],
+            "answer": [
+                "By fetching relevant document chunks from an external database and appending them to the prompt context."
+            ]
+        },
+        {
+            "question": "Which metric is most commonly utilized in vector databases to calculate the semantic distance between a query embedding and document embeddings?",
+            "choices": [
+                "Euclidean Distance (L2)",
+                "Cosine Similarity",
+                "Hamming Distance",
+                "Pearson Correlation Coefficient"
+            ],
+            "answer": [
+                "Cosine Similarity"
+            ]
+        },
+        {
+            "question": "What is the environmental significance of \"prompt efficiency\" in large-scale enterprise deployments?",
+            "choices": [
+                "Shorter prompts require less physical storage on disk.",
+                "Minimizing token usage directly reduces the electrical energy consumed by GPUs during sequential inference passes.",
+                "Prompt engineering allows models to bypass the need for cooling systems in data centers",
+                "Long prompts increase the risk of bit-rot in long-term data archives"
+            ],
+            "answer": [
+                "Minimizing token usage directly reduces the electrical energy consumed by GPUs during sequential inference passes."
+            ]
+        },
+        {
+            "question": "An \"Agentic Workflow\" differs from a \"Linear RAG Pipeline\" in which of the following ways?(Multiple correct options are possible, Select all that apply)",
+            "choices": [
+                "It can dynamically select which tools (e.g., Web Search, Python Interpreter) to call based on the input.",
+                "It involves a self-correction loop where the model reviews its own output for errors.",
+                "It requires zero tokens for input processing.",
+                "It can branch into different logic paths rather than following a fixed sequence of retrieval and generation"
+            ],
+            "answer": [
+                "It can dynamically select which tools (e.g., Web Search, Python Interpreter) to call based on the input.",
+                "It involves a self-correction loop where the model reviews its own output for errors.",
+                "It can branch into different logic paths rather than following a fixed sequence of retrieval and generation"
+            ]
+        },
+        {
+            "question": "Which of the following best describes the \"Dolphin Attack\" vulnerability in AI voice systems?",
+            "choices": [
+                "A brute-force attack using common household phrases to bypass wake word security.",
+                "The use of high-frequency sound waves, inaudible to humans but recognizable by system microphones, to deliver malicious commands.",
+                "A social engineering tactic where a parrot or other pet is trained to mimic the owner\u2019s wake word.",
+                "The exploitation of similar-sounding application names to divert users to unauthorized software."
+            ],
+            "answer": [
+                "The use of high-frequency sound waves, inaudible to humans but recognizable by system microphones, to deliver malicious commands."
+            ]
+        },
+        {
+            "question": "From a machine learning operations (MLOps) perspective, why do developers typically choose to store user voice data in the cloud rather than deleting it immediately after processing?",
+            "choices": [
+                "To comply with federal data custodianship regulations for criminal investigations.",
+                "To minimize the hardware requirements and energy consumption of the physical edge device.",
+                "To provide a labeled dataset for supervised training to fine-tune and improve algorithmic accuracy.",
+                "To ensure that all private conversations can be emailed to contacts in the event of a system error"
+            ],
+            "answer": [
+                "To provide a labeled dataset for supervised training to fine-tune and improve algorithmic accuracy."
+            ]
+        },
+        {
+            "question": "What primary technical mechanism allows voice assistants like Alexa to remain responsive to user commands without requiring a physical interface?",
+            "choices": [
+                "Continuous cloud-based transcription of all ambient room noise.",
+                "Localized hardware monitoring for a specific frequency-based interjection or wake word.",
+                "Real-time biometric identification of authorized household members.",
+                "Predictive modeling of user intent based on historical time-of-day data."
+            ],
+            "answer": [
+                "Localized hardware monitoring for a specific frequency-based interjection or wake word."
+            ]
+        }
+    ],
+    "Week 11 : Assignment 11": [
+        {
+            "question": "An organization makes sure that employees come from different social, ethnic, and gender backgrounds. Which concept is this?",
+            "choices": [
+                "Equity",
+                "Inclusion",
+                "Diversity",
+                "Equal opportunity"
+            ],
+            "answer": [
+                "Diversity"
+            ]
+        },
+        {
+            "question": "When some people are treated unfairly because of prejudice or group membership, and this happens in different ways across society, it shows:",
+            "choices": [
+                "Equal opportunity",
+                "Systematic relative disadvantage",
+                "Individual merit",
+                "Fair inclusion"
+            ],
+            "answer": [
+                "Systematic relative disadvantage"
+            ]
+        },
+        {
+            "question": "A policy that takes into account disadvantages caused by past injustice when judging current qualifications for important opportunities reflects which view of equality of opportunity?",
+            "choices": [
+                "Narrow meritocratic view",
+                "Broad view",
+                "Middle view",
+                "Equal outcome view"
+            ],
+            "answer": [
+                "Middle view"
+            ]
+        },
+        {
+            "question": "If AI systems lack freedom and consciousness, and humans may not always have enough control over the outcomes, this highlights which issue?",
+            "choices": [
+                "Technical inefficiency",
+                "Responsibility gap in AI systems",
+                "Data quality problem",
+                "Model accuracy limitation"
+            ],
+            "answer": [
+                "Responsibility gap in AI systems"
+            ]
+        },
+        {
+            "question": "In a case where developers, companies, users, and regulators may all be involved in an AI-related harm, what concept is illustrated?",
+            "choices": [
+                "Centralized accountability",
+                "Distributed responsibility",
+                "Individual liability",
+                "Legal immunity"
+            ],
+            "answer": [
+                "Distributed responsibility"
+            ]
+        },
+        {
+            "question": "In AI risk management, applying technological measures to reduce or eliminate risks is referred to as:",
+            "choices": [
+                "Mitigation",
+                "Transferal",
+                "Defense",
+                "Acceptance"
+            ],
+            "answer": [
+                "Defense"
+            ]
+        },
+        {
+            "question": "Shifting AI-related risk to other parties, systems, or external agencies is best described as:",
+            "choices": [
+                "Defense",
+                "Transferal",
+                "Mitigation",
+                "Termination"
+            ],
+            "answer": [
+                "Transferal"
+            ]
+        },
+        {
+            "question": "Mitigation, as a risk management strategy in AI systems, focuses on:",
+            "choices": [
+                "Eliminating risks completely",
+                "Shifting risks externally",
+                "Reducing the impact if an incident occurs",
+                "Ignoring risks after evaluation"
+            ],
+            "answer": [
+                "Reducing the impact if an incident occurs"
+            ]
+        },
+        {
+            "question": "Language Modeling Score (LMS) is defined as the percentage of tests in which a model:",
+            "choices": [
+                "Selects stereotyped answers",
+                "Selects anti-stereotyped answers",
+                "Selects a logical answer over a nonsensical answer",
+                "Avoids all bias"
+            ],
+            "answer": [
+                "Selects a logical answer over a nonsensical answer"
+            ]
+        },
+        {
+            "question": "Stereotype Score (SS) represents the percentage of tests in which the model:",
+            "choices": [
+                "Chooses logical answers",
+                "Chooses anti-stereotyped answers",
+                "Chooses stereotyped answers over anti-stereotyped ones",
+                "Produces neutral outputs"
+            ],
+            "answer": [
+                "Chooses stereotyped answers over anti-stereotyped ones"
+            ]
+        }
+    ],
+    "Unknown Assessment - 1776284612": [],
+    "Week 12 : Assignment 12": [
+        {
+            "question": "In the context of the NIST AI Risk Management Framework, why is \u2018Mapping\u2019 considered a critical first step before \u2018Measurement\u2019 and \u2018Management\u2019?",
+            "choices": [
+                "It identifies specific hardware required to run an AI system across regions.",
+                "It establishes the organizational or sectoral context, acknowledging that varying risk profiles between domains.",
+                "It serves as a legal audit to ensure the system is already in compliance.",
+                "It automates the detection of emergent risks that have not yet been identified by human stakeholders."
+            ],
+            "answer": [
+                "It establishes the organizational or sectoral context, acknowledging that varying risk profiles between domains."
+            ]
+        },
+        {
+            "question": "According to consolidated research on Responsible AI (RAI), the principle of \u2018Accountability\u2019 is fundamentally operationalized through which two dimensions?",
+            "choices": [
+                "Privacy and Data Access",
+                "Human Agency and Technical Robustness",
+                "Auditability and Responsibility",
+                "Non-discrimination and Environmental Well-being"
+            ],
+            "answer": [
+                "Auditability and Responsibility"
+            ]
+        },
+        {
+            "question": "When addressing the \u2018multistakeholder problem\u2019 in AI development, what is the primary objective of a governance framework compared to a set of ethical principles?",
+            "choices": [
+                "To provide a non-binding list of moral imperatives for developers.",
+                "To create a legally enforceable statute with defined judicial penalties for non-compliance.",
+                "To provide a structured mechanism for implementing and monitoring principles within a specific entity or organization.",
+                "To prioritize market-based economic incentives over human-centered value systems."
+            ],
+            "answer": [
+                "To provide a structured mechanism for implementing and monitoring principles within a specific entity or organization."
+            ]
+        },
+        {
+            "question": "In the context of global AI oversight, how does a \u2018multilateral\u2019 governance mechanism differ from a \u2018multistakeholder\u2019 entity?",
+            "choices": [
+                "Multilateral governance is typically a bottom-up approach driven by technology firms, while multistakeholder governance is top-down.",
+                "Multilateral bodies lack international legal standing, whereas multistakeholder entities have inherent sovereign enforcement powers.",
+                "There is no distinction; both terms refer exclusively to United Nations-led initiatives",
+                "Multilateral governance involves a coalition of nation-states or government bodies, whereas multistakeholder governance includes a broader group of interested parties such as industry and civil society."
+            ],
+            "answer": [
+                "Multilateral governance involves a coalition of nation-states or government bodies, whereas multistakeholder governance includes a broader group of interested parties such as industry and civil society."
+            ]
+        },
+        {
+            "question": "According to the NIST AI Risk Management Framework (AI RMF), which function serves as the central core that ensures mapping, measurement, and management are effectively executed?",
+            "choices": [
+                "Governance",
+                "Technical Robustness",
+                "Accountability",
+                "Data Privacy"
+            ],
+            "answer": [
+                "Governance"
+            ]
+        },
+        {
+            "question": "The European Union\u2019s approach to AI regulation is often contrasted with that of the United States. Which of the following best characterizes the primary philosophical orientation of EU AI oversight?",
+            "choices": [
+                "A market-oriented approach that prioritizes rapid innovation and capital growth.",
+                "A free-market capitalism model that relies entirely on industry self-regulation and voluntary carbon markets.",
+                "A human value-based approach that prioritizes fundamental rights and freedom.",
+                "A purely technical model focused solely on the algorithmic efficiency of general-purpose AI."
+            ],
+            "answer": [
+                "A human value-based approach that prioritizes fundamental rights and freedom."
+            ]
+        },
+        {
+            "question": "What is a primary challenge identified when attempting to implement \u2018Risk Measurement\u2019 within an AI governance framework?",
+            "choices": [
+                "Measurement is unnecessary if a system is already transparent.",
+                "Assigning quantitative values to qualitative social phenomena is often error-prone and subject to bias.",
+                "Risk measurement is only applicable to hardware-based systems, not emergent software.",
+                "International law prohibits the use of metrics to assess algorithmic impact."
+            ],
+            "answer": [
+                "Assigning quantitative values to qualitative social phenomena is often error-prone and subject to bias."
+            ]
+        },
+        {
+            "question": "What is the fundamental risk associated with \u201cGarbage In, Garbage Out\u201d regarding the long-term sustainability of Large Language Models?",
+            "choices": [
+                "Models will eventually run out of tokens to predict.",
+                "The cost of GPUs will decrease, making prompt engineering irrelevant.",
+                "System prompts will become too complex for the context window to handle.",
+                "Future models trained on that mediocre or nonsensical AI-generated content data will likely become increasingly unreliable and prone to error."
+            ],
+            "answer": [
+                "Future models trained on that mediocre or nonsensical AI-generated content data will likely become increasingly unreliable and prone to error."
+            ]
+        },
+        {
+            "question": "Why is Temperature = 0 typically preferred for sensitive industry use cases like PII redaction or financial auditing, despite the lack of \u2018creativity\u2019?",
+            "choices": [
+                "It ensures maximum consistency by always selecting the token with the highest probability",
+                "It reduces the cost of input tokens by 100x.",
+                "It allows the model to bypass the training data\u2019s inherent biases.",
+                "It enables the model to understand multimodal inputs like images and audio."
+            ],
+            "answer": [
+                "It ensures maximum consistency by always selecting the token with the highest probability"
+            ]
+        },
+        {
+            "question": "Which of the following describes the most fundamental function of a Large Language Model (LLM) in the context of prompt engineering?",
+            "choices": [
+                "It is a search engine that retrieves the most accurate facts from the internet in real-time.",
+                "It is a \u2018next token prediction machine\u2019 that calculates the probability of the most likely subsequent word or character based on the provided context.",
+                "It is a hard-coded database of logic rules that cannot be influenced by user input.",
+                "It is an image-processing tool that converts text into pixels without mathematical computation."
+            ],
+            "answer": [
+                "It is a \u2018next token prediction machine\u2019 that calculates the probability of the most likely subsequent word or character based on the provided context."
+            ]
+        }
+    ]
+}
