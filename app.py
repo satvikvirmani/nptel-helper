@@ -1,5 +1,5 @@
-from src.app_main import run
+from src.web import app, run_dev_server
 
 
 if __name__ == "__main__":
-    run()
+    run_dev_server()

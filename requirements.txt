@@ -1,6 +1,3 @@
-playwright
-beautifulsoup4
-streamlit
 google-genai
 python-dotenv
-streamlit-js-eval
+flask
