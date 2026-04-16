@@ -1,0 +1,1436 @@
+{
+    "Week 1 : Assignment 1": [
+        {
+            "question": "What does affective computing primarily involve?",
+            "choices": [
+                "Systems that improve computer graphics",
+                "Systems that sense, recognize, respond to, and influence emotions",
+                "Systems that optimize data storage",
+                "Systems that improve processor speed"
+            ],
+            "answer": [
+                "Systems that sense, recognize, respond to, and influence emotions"
+            ]
+        },
+        {
+            "question": "Which of the following is not a modality for affect sensing?",
+            "choices": [
+                "Facial activity",
+                "Textual analysis",
+                "Temperature of the environment",
+                "Physiological signals"
+            ],
+            "answer": [
+                "Temperature of the environment"
+            ]
+        },
+        {
+            "question": "According to Picard (1997), which of the following is not one of the three applications of affective computing?",
+            "choices": [
+                "Detection",
+                "Expression",
+                "Prediction",
+                "Perception"
+            ],
+            "answer": [
+                "Prediction"
+            ]
+        },
+        {
+            "question": "The EngageMe system uses which data source to help teachers reflect on their classes?",
+            "choices": [
+                "EEG readings from helmets",
+                "Skin conductance and classroom video feeds",
+                "Social media activity",
+                "Voice recordings"
+            ],
+            "answer": [
+                "Skin conductance and classroom video feeds"
+            ]
+        },
+        {
+            "question": "Which application is designed to help individuals with Asperger syndrome or high-functioning autism?",
+            "choices": [
+                "StartleMart",
+                "Subtle Stone",
+                "SymTrend and Autism Track",
+                "MACH"
+            ],
+            "answer": [
+                "SymTrend and Autism Track"
+            ]
+        },
+        {
+            "question": "What is the purpose of the MACH system?",
+            "choices": [
+                "Neuromarketing research",
+                "Automated conversation coaching for interviews",
+                "Stress detection in PTSD",
+                "Classroom emotion tracking"
+            ],
+            "answer": [
+                "Automated conversation coaching for interviews"
+            ]
+        },
+        {
+            "question": "In UX design, what does usability mainly concern?",
+            "choices": [
+                "How attractive the interface looks",
+                "How easy the product is to use",
+                "How emotional the user feels",
+                "How fast the product can be developed"
+            ],
+            "answer": [
+                "How easy the product is to use"
+            ]
+        },
+        {
+            "question": "What is a major problem with self-reported user testing (focus groups/surveys)?",
+            "choices": [
+                "Requires expensive hardware",
+                "Participant bias and recall bias",
+                "Requires EEG equipment",
+                "Long training time for participants"
+            ],
+            "answer": [
+                "Participant bias and recall bias"
+            ]
+        },
+        {
+            "question": "Which physiological signal is explicitly mentioned as part of affect sensing?",
+            "choices": [
+                "Heart rate variability",
+                "Electrodermal activity (EDA)",
+                "Sleep cycles",
+                "Blood pressure"
+            ],
+            "answer": [
+                "Electrodermal activity (EDA)"
+            ]
+        },
+        {
+            "question": "Emotion recognition systems always rely on facial expressions and cannot use any other type of data.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "False"
+            ]
+        }
+    ],
+    "Week 2 : Assignment 2": [
+        {
+            "question": "Which brain region is primarily involved in regulating emotional experience and motivation?",
+            "choices": [
+                "Prefrontal cortex",
+                "Occipital lobe",
+                "Cerebellum",
+                "Pituitary gland"
+            ],
+            "answer": [
+                "Prefrontal cortex"
+            ]
+        },
+        {
+            "question": "The amygdala is most strongly associated with which function?",
+            "choices": [
+                "Decision making and planning",
+                "Regulation of voluntary movement",
+                "Processing stimulus salience and arousal",
+                "Language comprehension"
+            ],
+            "answer": [
+                "Processing stimulus salience and arousal"
+            ]
+        },
+        {
+            "question": "According to embodied cognition theories, voluntary facial muscle contraction can influence emotional experience. This idea supports which concept?",
+            "choices": [
+                "Emotions exist independently of bodily states",
+                "Emotion cannot occur without a conscious appraisal",
+                "Emotion is generated only through cognitive evaluation",
+                "Bodily feedback contributes to how emotions are felt"
+            ],
+            "answer": [
+                "Bodily feedback contributes to how emotions are felt"
+            ]
+        },
+        {
+            "question": "Higher activation in the left frontal hemisphere is generally linked to which motivational tendency?",
+            "choices": [
+                "Withdrawal motivation",
+                "Approach motivation",
+                "Reduced emotional awareness",
+                "Neutral affect"
+            ],
+            "answer": [
+                "Approach motivation"
+            ]
+        },
+        {
+            "question": "Which emotion is commonly associated with activation of the left frontal PFC, despite being negatively valenced?",
+            "choices": [
+                "Fear",
+                "Sadness",
+                "Anger",
+                "Disgust"
+            ],
+            "answer": [
+                "Anger"
+            ]
+        },
+        {
+            "question": "In the dimensional VAD/PAD model, dominance refers to:",
+            "choices": [
+                "The sense of control or submission associated with an emotion",
+                "The pleasantness of an emotional state",
+                "The intensity or energy of an emotion",
+                "The clarity with which an emotion is recognized"
+            ],
+            "answer": [
+                "The sense of control or submission associated with an emotion"
+            ]
+        },
+        {
+            "question": "One limitation of traditional categorical emotion models is that:",
+            "choices": [
+                "They cannot be implemented computationally",
+                "They struggle to represent relationships between emotions",
+                "They include too many dimensions to be practical",
+                "They ignore facial expressions entirely"
+            ],
+            "answer": [
+                "They struggle to represent relationships between emotions"
+            ]
+        },
+        {
+            "question": "Which emotion is typically characterized by lowered eyebrows, tense eyelids, and pressed lips?",
+            "choices": [
+                "Happiness",
+                "Fear",
+                "Disgust",
+                "Anger"
+            ],
+            "answer": [
+                "Anger"
+            ]
+        },
+        {
+            "question": "Increased skin conductance is most reliably associated with which type of disgust-related stimulus?",
+            "choices": [
+                "Pictures of dirty toilets",
+                "Pleasant odors",
+                "Mutilation or body-boundary violation images",
+                "Neutral facial expressions"
+            ],
+            "answer": [
+                "Mutilation or body-boundary violation images"
+            ]
+        },
+        {
+            "question": "Crying-related sadness is associated with which physiological pattern?",
+            "choices": [
+                "Reduced respiration and lower HRV",
+                "Increased heart rate and increased skin conductance",
+                "Decreased skin conductance and reduced heart rate",
+                "No change in respiration but reduced HRV"
+            ],
+            "answer": [
+                "Increased heart rate and increased skin conductance"
+            ]
+        }
+    ],
+    "Week 3 : Assignment 3": [
+        {
+            "question": "Which type of emotional expression dataset is easiest to collect but suffers from low ecological validity?",
+            "choices": [
+                "Acted or posed expressions",
+                "Naturalistic expressions",
+                "Induced expressions",
+                "Behavioral manipulation datasets"
+            ],
+            "answer": [
+                "Acted or posed expressions"
+            ]
+        },
+        {
+            "question": "In emotion elicitation, which method involves observing film clips or images designed to evoke emotions?",
+            "choices": [
+                "Social interaction",
+                "Passive/perception-based methods",
+                "Directed facial action tasks",
+                "Productive modality elicitation"
+            ],
+            "answer": [
+                "Passive/perception-based methods"
+            ]
+        },
+        {
+            "question": "A key disadvantage of using images for passive elicitation is:",
+            "choices": [
+                "Setup is too complex",
+                "Emotional reactions are short and transient",
+                "Images cannot be standardized",
+                "Images elicit too intense emotions"
+            ],
+            "answer": [
+                "Emotional reactions are short and transient"
+            ]
+        },
+        {
+            "question": "Which passive method generally includes a neutral baseline clip before emotional clips?",
+            "choices": [
+                "Facial action tasks",
+                "Social interaction",
+                "Film clip\u2013based elicitation",
+                "Gesture-based elicitation"
+            ],
+            "answer": [
+                "Film clip\u2013based elicitation"
+            ]
+        },
+        {
+            "question": "Directed Facial Action Tasks are primarily used in:",
+            "choices": [
+                "Behavioral manipulation methods",
+                "Passive emotion elicitation",
+                "Baseline emotional calibration",
+                "IRB risk assessment"
+            ],
+            "answer": [
+                "Behavioral manipulation methods"
+            ]
+        },
+        {
+            "question": "One major advantage of social interaction\u2013based elicitation is:",
+            "choices": [
+                "The emotions elicited are highly controllable",
+                "It is effective for collecting productive modalities",
+                "Emotions produced are realistic and natural",
+                "Participants do not require instruction"
+            ],
+            "answer": [
+                "Emotions produced are realistic and natural"
+            ]
+        },
+        {
+            "question": "Which document is required when submitting a study for IRB review?",
+            "choices": [
+                "A participant payment receipt",
+                "A full literature review",
+                "A published version of the experiment",
+                "A copy of the informed consent form"
+            ],
+            "answer": [
+                "A copy of the informed consent form"
+            ]
+        },
+        {
+            "question": "Which of the following is not a criterion for IRB approval?",
+            "choices": [
+                "Risks to subjects must be minimized",
+                "Adequate privacy and confidentiality protection",
+                "Ensuring participants enjoy the experiment",
+                "Selection of subjects must be equitable"
+            ],
+            "answer": [
+                "Ensuring participants enjoy the experiment"
+            ]
+        },
+        {
+            "question": "Tools such as PsychoPy, OpenSesame, and SuperLab fall under which category?",
+            "choices": [
+                "Affect expression tools",
+                "Data collection tools",
+                "Data mining tools",
+                "Annotation tools"
+            ],
+            "answer": [
+                "Data collection tools"
+            ]
+        },
+        {
+            "question": "SAM (Self-Assessment Manikin) is primarily used for:",
+            "choices": [
+                "Image labeling",
+                "Physiological signal cleaning",
+                "Facial expression synthesis",
+                "Measuring emotional responses along dimensions like valence and arousal"
+            ],
+            "answer": [
+                "Measuring emotional responses along dimensions like valence and arousal"
+            ]
+        }
+    ],
+    "Week 4 : Assignment 4": [
+        {
+            "question": "Which input modality is considered the most informative and non-intrusive for Facial Emotion Recognition (FER)?",
+            "choices": [
+                "EMG",
+                "Camera",
+                "EEG",
+                "Earables"
+            ],
+            "answer": [
+                "Camera"
+            ]
+        },
+        {
+            "question": "Dynamic FER generally outperforms static FER because it:",
+            "choices": [
+                "Uses more sensors",
+                "Ignores temporal variations",
+                "Captures expression transitions over time",
+                "Removes noise from peak frames"
+            ],
+            "answer": [
+                "Captures expression transitions over time"
+            ]
+        },
+        {
+            "question": "The first step in conventional FER pipelines typically involves:",
+            "choices": [
+                "Expression classification",
+                "Texture smoothing",
+                "Face and facial component detection",
+                "Motion estimation"
+            ],
+            "answer": [
+                "Face and facial component detection"
+            ]
+        },
+        {
+            "question": "Deep-learning-based FER systems reduce reliance on:",
+            "choices": [
+                "Face-physics-based models and preprocessing",
+                "Landmark detectors",
+                "Data augmentation",
+                "GPU resources"
+            ],
+            "answer": [
+                "Face-physics-based models and preprocessing"
+            ]
+        },
+        {
+            "question": "Macro expressions typically last:",
+            "choices": [
+                "Less than 1/2 second",
+                "5\u201310 seconds",
+                "Longer than 10 seconds",
+                "Between 1/2 and 4 seconds"
+            ],
+            "answer": [
+                "Between 1/2 and 4 seconds"
+            ]
+        },
+        {
+            "question": "Micro expressions are difficult to detect because they:",
+            "choices": [
+                "Last longer than macro expressions",
+                "Are consciously controlled",
+                "Are brief and often involuntary",
+                "Do not involve facial muscles"
+            ],
+            "answer": [
+                "Are brief and often involuntary"
+            ]
+        },
+        {
+            "question": "Facial Action Coding System (FACS) is based on:",
+            "choices": [
+                "Facial muscle movements",
+                "Wrinkle depth measurements",
+                "Tracking head pose only",
+                "Eye aperture changes exclusively"
+            ],
+            "answer": [
+                "Facial muscle movements"
+            ]
+        },
+        {
+            "question": "Which appearance-based feature descriptor is sensitive to lighting variations?",
+            "choices": [
+                "SIFT",
+                "Raw pixel intensity values",
+                "Gabor filters",
+                "HOG"
+            ],
+            "answer": [
+                "Raw pixel intensity values"
+            ]
+        },
+        {
+            "question": "Optical flow is primarily used to extract:",
+            "choices": [
+                "Static shape features",
+                "Texture gradients",
+                "Motion-based features",
+                "High-resolution appearance cues"
+            ],
+            "answer": [
+                "Motion-based features"
+            ]
+        },
+        {
+            "question": "Geometric features alone are sometimes insufficient because different AUs can produce similar landmark changes.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        }
+    ],
+    "Week 5 : Assignment 5": [
+        {
+            "question": "Which of the following is not an application of speech in affective computing?",
+            "choices": [
+                "Driver safety monitoring",
+                "Mobile communications",
+                "Diagnostic tools for therapists",
+                "Face recognition unlocking"
+            ],
+            "answer": [
+                "Face recognition unlocking"
+            ]
+        },
+        {
+            "question": "According to Borden et al. (1994), \u201chow it is said\u201d refers to:",
+            "choices": [
+                "The linguistic meaning of the words",
+                "Paralinguistic information reflecting emotional state",
+                "Speaker identity characteristics",
+                "Speech segmentation rules"
+            ],
+            "answer": [
+                "Paralinguistic information reflecting emotional state"
+            ]
+        },
+        {
+            "question": "Natural emotional speech databases primarily include:",
+            "choices": [
+                "Speech from trained actors",
+                "Emotionally synthesized speech",
+                "Spontaneous speech from real-world scenarios",
+                "Scripted dialogues recorded in studios"
+            ],
+            "answer": [
+                "Spontaneous speech from real-world scenarios"
+            ]
+        },
+        {
+            "question": "Positive emotions always produce lower variability in pitch.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Berlin Emotional Speech Database contains recordings of:",
+            "choices": [
+                "Children interacting with robots",
+                "Professional actors producing emotional German sentences",
+                "North American speakers producing neutral statements",
+                "Patients and doctors in clinical settings"
+            ],
+            "answer": [
+                "Professional actors producing emotional German sentences"
+            ]
+        },
+        {
+            "question": "Prosody features include:",
+            "choices": [
+                "MFCCs",
+                "SIFT descriptors",
+                "Fundamental frequency and short-term energy",
+                "Visual intensity curves"
+            ],
+            "answer": [
+                "Fundamental frequency and short-term energy"
+            ]
+        },
+        {
+            "question": "MFCCs are primarily used to represent:",
+            "choices": [
+                "Resonant spectral characteristics",
+                "Rhythm and intonation patterns",
+                "Speaker identity features",
+                "Amplitude variations across time"
+            ],
+            "answer": [
+                "Resonant spectral characteristics"
+            ]
+        },
+        {
+            "question": "Positive voices typically show which characteristic?",
+            "choices": [
+                "Low pitch and low formant frequencies",
+                "Low speech rate",
+                "Flat and monotone amplitude",
+                "High loudness variability and high formant frequencies"
+            ],
+            "answer": [
+                "High loudness variability and high formant frequencies"
+            ]
+        },
+        {
+            "question": "A key problem with global normalization of f0 across all speakers is that it:",
+            "choices": [
+                "May blur emotional differences due to speaker-specific traits",
+                "Reduces background noise",
+                "Is too computationally expensive",
+                "Requires manual annotation"
+            ],
+            "answer": [
+                "May blur emotional differences due to speaker-specific traits"
+            ]
+        },
+        {
+            "question": "One major open challenge in speech-based affect recognition is:",
+            "choices": [
+                "Oversupply of natural databases",
+                "Inter- and intra-speaker variability",
+                "Perfect cross-lingual generalization",
+                "Excessive real-time deployment success"
+            ],
+            "answer": [
+                "Inter- and intra-speaker variability"
+            ]
+        }
+    ],
+    "Week 6 : Assignment 6": [
+        {
+            "question": "ANEW is a categorical lexicon used to label text with Ekman\u2019s six universal emotions.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "question": "According to Poffenberger & Barrows (1924), upward-moving lines tend to evoke which feeling?",
+            "choices": [
+                "Calmness",
+                "Joy",
+                "Fear",
+                "Anger"
+            ],
+            "answer": [
+                "Joy"
+            ]
+        },
+        {
+            "question": "Juni & Gross (2008) found that articles were perceived as more satirical when written in:",
+            "choices": [
+                "Arial",
+                "Georgia",
+                "Times New Roman",
+                "Verdana"
+            ],
+            "answer": [
+                "Times New Roman"
+            ]
+        },
+        {
+            "question": "Relative Subjective Duration (RSD) experiments showed that good typography led participants to:",
+            "choices": [
+                "Underestimate reading time less",
+                "Overestimate reading time greatly",
+                "Underestimate reading time more",
+                "Read significantly slower"
+            ],
+            "answer": [
+                "Underestimate reading time more"
+            ]
+        },
+        {
+            "question": "Why is positive/negative sentiment analysis often insufficient?",
+            "choices": [
+                "Emotions with similar polarity (e.g., fear vs. anger) differ in relevance and meaning",
+                "Most texts contain no sentiment",
+                "It cannot detect sarcasm",
+                "It is computationally expensive"
+            ],
+            "answer": [
+                "Emotions with similar polarity (e.g., fear vs. anger) differ in relevance and meaning"
+            ]
+        },
+        {
+            "question": "Implicit expressions of emotions (Lee, 2015) refer to:",
+            "choices": [
+                "Emotions directly stated via adjectives",
+                "Physiological signals embedded in text",
+                "Metaphors expressing emotional states",
+                "Emotion conveyed without explicit emotional words"
+            ],
+            "answer": [
+                "Emotion conveyed without explicit emotional words"
+            ]
+        },
+        {
+            "question": "Metaphorical emotional expressions create challenges because:",
+            "choices": [
+                "Their meaning cannot be inferred from literal text alone",
+                "They are too rare to train on",
+                "They cannot be represented in WordNet",
+                "They always express anger"
+            ],
+            "answer": [
+                "Their meaning cannot be inferred from literal text alone"
+            ]
+        },
+        {
+            "question": "The ISEAR database consists of reports from participants describing:",
+            "choices": [
+                "Metaphorical uses of emotional expressions",
+                "Situations where they experienced one of seven major emotions",
+                "Annotated news headlines",
+                "Product reviews labeled for polarity"
+            ],
+            "answer": [
+                "Situations where they experienced one of seven major emotions"
+            ]
+        },
+        {
+            "question": "SentiWordNet focuses primarily on:",
+            "choices": [
+                "Dimensional emotion modeling",
+                "Detecting metaphors in textual data",
+                "Context-sensitive emotional sequences",
+                "Polarity (positive, negative, objective) of terms"
+            ],
+            "answer": [
+                "Polarity (positive, negative, objective) of terms"
+            ]
+        },
+        {
+            "question": "For unsupervised emotion recognition using lexicons, the text emotion is assigned by:",
+            "choices": [
+                "Counting how many emotional words appear",
+                "Finding the class with highest cosine similarity to the text vector",
+                "Selecting the emotion with the highest frequency in ANEW",
+                "Applying rule-based keyword matching only"
+            ],
+            "answer": [
+                "Finding the class with highest cosine similarity to the text vector"
+            ]
+        }
+    ],
+    "Week 7 : Assignment 7": [
+        {
+            "question": "Physiological signals are especially valuable in affect detection because they:",
+            "choices": [
+                "Cannot be voluntarily controlled and reflect pure emotional states",
+                "Require full attention from the participant",
+                "Are easier to fake than facial expressions",
+                "Are unaffected by wearable technologies"
+            ],
+            "answer": [
+                "Cannot be voluntarily controlled and reflect pure emotional states"
+            ]
+        },
+        {
+            "question": "Which of the following is not a physiological measure?",
+            "choices": [
+                "Respiration",
+                "Electrocardiogram",
+                "Heart Rate",
+                "Eye-blink frequency"
+            ],
+            "answer": [
+                "Eye-blink frequency"
+            ]
+        },
+        {
+            "question": "Heart rate is strongly associated with which dimension of emotion?",
+            "choices": [
+                "Valence",
+                "Arousal",
+                "Dominance",
+                "Surprise"
+            ],
+            "answer": [
+                "Arousal"
+            ]
+        },
+        {
+            "question": "A key advantage of PPG (Photo-Plethysmography) over ECG is that PPG:",
+            "choices": [
+                "Provides greater spatial resolution",
+                "Is quicker to attach and less intrusive",
+                "Measures electrical pulses directly",
+                "Requires medical-grade gel electrodes"
+            ],
+            "answer": [
+                "Is quicker to attach and less intrusive"
+            ]
+        },
+        {
+            "question": "Heart Rate Variability (HRV) measures:",
+            "choices": [
+                "The average heart rate over the day",
+                "The electrical intensity of heart contractions",
+                "The variation in RR intervals between beats",
+                "The number of peaks in each heartbeat waveform"
+            ],
+            "answer": [
+                "The variation in RR intervals between beats"
+            ]
+        },
+        {
+            "question": "A major limitation of ECG/PPG for affect recognition is that they:",
+            "choices": [
+                "Only measure emotional valence, not arousal",
+                "Cannot measure changes over short intervals",
+                "Are too invasive for most participants",
+                "Cannot distinguish positive from negative arousal"
+            ],
+            "answer": [
+                "Cannot distinguish positive from negative arousal"
+            ]
+        },
+        {
+            "question": "Physiological signals like HR and GSR are less likely to be consciously manipulated compared to facial expressions.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "ECG-based heart rate measurements are more accurate than PPG because:",
+            "choices": [
+                "They measure electrical activity directly",
+                "They require fewer sensors",
+                "They work better at long distances",
+                "They are less sensitive to motion artifacts"
+            ],
+            "answer": [
+                "They measure electrical activity directly"
+            ]
+        },
+        {
+            "question": "GSR can reveal whether the emotional state is positive or negative.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "question": "Low HRV is typically associated with:",
+            "choices": [
+                "Relaxation",
+                "Strong stress or arousal",
+                "Enhanced emotional control",
+                "Deep sleep"
+            ],
+            "answer": [
+                "Strong stress or arousal"
+            ]
+        }
+    ],
+    "Week 8 : Assignment 8": [
+        {
+            "question": "Skin Conductance (GSR/EDA) measures changes primarily due to:",
+            "choices": [
+                "Sweat gland activity",
+                "Body temperature",
+                "Blood pressure",
+                "Respiration depth"
+            ],
+            "answer": [
+                "Sweat gland activity"
+            ]
+        },
+        {
+            "question": "In GSR signals, the fast, event-related component is called:",
+            "choices": [
+                "SCL (Skin Conductance Level)",
+                "EDL (Electrodermal Level)",
+                "SCR (Skin Conductance Response)",
+                "ERV (Emotional Response Value)"
+            ],
+            "answer": [
+                "SCR (Skin Conductance Response)"
+            ]
+        },
+        {
+            "question": "GSR can reveal whether the emotional state is positive or negative.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "question": "Skin conductance responses (SCR) correspond to:",
+            "choices": [
+                "Slow tonic changes in conductivity",
+                "Rapid, event-related changes triggered by stimuli",
+                "Changes due to respiration cycles",
+                "Variations caused only by temperature"
+            ],
+            "answer": [
+                "Rapid, event-related changes triggered by stimuli"
+            ]
+        },
+        {
+            "question": "The most emotionally reactive sweat glands are located on:",
+            "choices": [
+                "Forehead",
+                "Knees",
+                "Palms and soles",
+                "Back"
+            ],
+            "answer": [
+                "Palms and soles"
+            ]
+        },
+        {
+            "question": "In EEG signals, alpha-band power has what relationship with cortical activity?",
+            "choices": [
+                "Direct (more alpha = more activity)",
+                "Inverse (more alpha = less activity)",
+                "No relationship",
+                "Only positive emotions change alpha"
+            ],
+            "answer": [
+                "Inverse (more alpha = less activity)"
+            ]
+        },
+        {
+            "question": "In multimodal emotion recognition, early fusion requires:",
+            "choices": [
+                "Combining classifier decisions",
+                "Using only a single modality",
+                "Late-stage hypothesis selection",
+                "Synchronizing signals before concatenation"
+            ],
+            "answer": [
+                "Synchronizing signals before concatenation"
+            ]
+        },
+        {
+            "question": "Slow fusion is beneficial because it:",
+            "choices": [
+                "Avoids all redundancy across modalities",
+                "Assumes strict independence of cues",
+                "Exploits correlations while relaxing synchronization requirements",
+                "Works only with visual cues"
+            ],
+            "answer": [
+                "Exploits correlations while relaxing synchronization requirements"
+            ]
+        },
+        {
+            "question": "The SEMAINE project aims to train a system that:",
+            "choices": [
+                "Engages in multimodal social interaction as a Sensitive Artificial Listener",
+                "Predicts emotional valence using only speech",
+                "Detects emotions using physiological sensors alone",
+                "Generates emotional facial expressions automatically"
+            ],
+            "answer": [
+                "Engages in multimodal social interaction as a Sensitive Artificial Listener"
+            ]
+        },
+        {
+            "question": "A challenge in multimodal affect data collection is:",
+            "choices": [
+                "Too many synchronized datasets exist",
+                "Overabundance of annotated corpora",
+                "Lack of available audio signals",
+                "Getting spontaneous, subtle expressions with aligned modalities"
+            ],
+            "answer": [
+                "Getting spontaneous, subtle expressions with aligned modalities"
+            ]
+        }
+    ],
+    "Week 9 : Assignment 9": [
+        {
+            "question": "Empathy is defined as the capacity to:",
+            "choices": [
+                "Understand what other humans are experiencing",
+                "Sense physiological signals of another person",
+                "Predict future user behavior",
+                "Generate synthetic emotions"
+            ],
+            "answer": [
+                "Understand what other humans are experiencing"
+            ]
+        },
+        {
+            "question": "Anthropomorphism refers to:",
+            "choices": [
+                "Designing robots without humanlike qualities",
+                "Assigning human characteristics to non-human entities",
+                "Removing emotional expressiveness from agents",
+                "Ensuring robots remain purely mechanical"
+            ],
+            "answer": [
+                "Assigning human characteristics to non-human entities"
+            ]
+        },
+        {
+            "question": "A primary risk of highly humanlike robot design is the:",
+            "choices": [
+                "Social inertia problem",
+                "Mechanical failure effect",
+                "Uncanny Valley effect",
+                "Immersion fatigue"
+            ],
+            "answer": [
+                "Uncanny Valley effect"
+            ]
+        },
+        {
+            "question": "In empathy analysis, lexical cues typically involve:",
+            "choices": [
+                "Physiological features from GSR",
+                "Motion tracking of gestures",
+                "Patterns in language transcripts",
+                "Eye-gaze direction estimation"
+            ],
+            "answer": [
+                "Patterns in language transcripts"
+            ]
+        },
+        {
+            "question": "Prosodic cues for empathy detection include:",
+            "choices": [
+                "Pitch, jitter, shimmer and energy",
+                "Facial landmark velocities",
+                "Background noise estimation",
+                "Lexicon-based word embeddings"
+            ],
+            "answer": [
+                "Pitch, jitter, shimmer and energy"
+            ]
+        },
+        {
+            "question": "Empathic agents can lead to more positive and appropriate interactions with users.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "The robot \u201cShimi\u201d determines valence using:",
+            "choices": [
+                "Facial EMG signals",
+                "EEG spectral features",
+                "Pulse analysis from PPG",
+                "Semantic analysis of spoken language"
+            ],
+            "answer": [
+                "Semantic analysis of spoken language"
+            ]
+        },
+        {
+            "question": "In virtual agent studies, bystander intervention was influenced by:",
+            "choices": [
+                "Visual realism only",
+                "Social identity of the participant",
+                "Robot motion speed",
+                "Ambient sound levels"
+            ],
+            "answer": [
+                "Social identity of the participant"
+            ]
+        },
+        {
+            "question": "A major limitation of data-driven empathy modeling is:",
+            "choices": [
+                "Lack of high-quality, finely annotated empathy datasets",
+                "Too much multimodal data available",
+                "Overabundance of therapist training corpora",
+                "Universal agreement on evaluation metrics"
+            ],
+            "answer": [
+                "Lack of high-quality, finely annotated empathy datasets"
+            ]
+        },
+        {
+            "question": "Affective AutoTutor adapts its responses using:",
+            "choices": [
+                "Randomized affect scripts",
+                "Motion-only cues",
+                "Predefined facial, prosodic and verbal empathic behaviors",
+                "Reward-based reinforcement learning"
+            ],
+            "answer": [
+                "Predefined facial, prosodic and verbal empathic behaviors"
+            ]
+        }
+    ],
+    "Week 10 : Assignment 10": [
+        {
+            "question": "Affective AutoTutor combines individual affect diagnoses using:",
+            "choices": [
+                "Feature-level fusion",
+                "Decision-level fusion",
+                "Early multimodal fusion",
+                "Pure rule-based weighting"
+            ],
+            "answer": [
+                "Decision-level fusion"
+            ]
+        },
+        {
+            "question": "GazeTutor primarily focuses on detecting:",
+            "choices": [
+                "Heart rate fluctuations",
+                "Keyboard typing patterns",
+                "Emotional tone of spoken dialogue",
+                "Eye-gaze shifts indicating waning attention"
+            ],
+            "answer": [
+                "Eye-gaze shifts indicating waning attention"
+            ]
+        },
+        {
+            "question": "In affect-aware games, emotion-driven interaction allows:",
+            "choices": [
+                "Predicting user goals only",
+                "Removing all non-playable characters",
+                "Preventing game difficulty adjustments",
+                "Tailoring game experience to individual players"
+            ],
+            "answer": [
+                "Tailoring game experience to individual players"
+            ]
+        },
+        {
+            "question": "Nevermind modifies gameplay difficulty based on:",
+            "choices": [
+                "Heart rate and emotional distress indicators",
+                "Player\u2019s reaction time",
+                "Completed mission count",
+                "Voice loudness"
+            ],
+            "answer": [
+                "Heart rate and emotional distress indicators"
+            ]
+        },
+        {
+            "question": "A key scalability issue with sensors is that they are often:",
+            "choices": [
+                "Too small to detect affective signals",
+                "Only compatible with gaming systems",
+                "Custom, non-portable, and expensive",
+                "Used exclusively for medical purposes"
+            ],
+            "answer": [
+                "Custom, non-portable, and expensive"
+            ]
+        },
+        {
+            "question": "Sensorlite approaches typically rely on:",
+            "choices": [
+                "EEG headsets only",
+                "Cameras and microphones as scalable proxies",
+                "Pressure-sensitive chairs",
+                "Biological implants"
+            ],
+            "answer": [
+                "Cameras and microphones as scalable proxies"
+            ]
+        },
+        {
+            "question": "A major open issue in affect detection is:",
+            "choices": [
+                "Too much annotated data availability",
+                "Perfect generalization across users and contexts",
+                "Noisy and intrusive sensors that reduce scalability",
+                "Complete agreement on emotion models"
+            ],
+            "answer": [
+                "Noisy and intrusive sensors that reduce scalability"
+            ]
+        },
+        {
+            "question": "A Level 0 adaptation system is one that:",
+            "choices": [
+                "Adapts multiple tasks simultaneously",
+                "Recognizes affect but does not alter behavior",
+                "Communicates adaptation with other agents",
+                "Does not alter its behavior at all"
+            ],
+            "answer": [
+                "Does not alter its behavior at all"
+            ]
+        },
+        {
+            "question": "Level 4 adaptation involves:",
+            "choices": [
+                "Multiple independent agents communicating adaptations",
+                "No adaptation to emotion",
+                "A single optimized task",
+                "Removing emotional monitoring entirely"
+            ],
+            "answer": [
+                "Multiple independent agents communicating adaptations"
+            ]
+        },
+        {
+            "question": "Affect detection in real-world environments is extremely challenging and may never reach perfect accuracy.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        }
+    ],
+    "Week 11 : Assignment 11": [
+        {
+            "question": "Which of the following is a suitable reason why an Emotional Virtual Agent (EVA) should support multiple languages?",
+            "choices": [
+                "To enable a wider range of users to access emotional support",
+                "To ensure that the agent never makes translation errors",
+                "To reduce the need for emotional modeling",
+                "To increase the agent\u2019s computational speed"
+            ],
+            "answer": [
+                "To enable a wider range of users to access emotional support"
+            ]
+        },
+        {
+            "question": "Virtual assistants may be biased towards the training data, which may potentially lead to the unfair treatment of certain groups.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "Emotional virtual agents might lead to social isolation.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "Which of the following is the best way to prevent privacy concerns related to emotional virtual agents?",
+            "choices": [
+                "Collect as much user data as possible to improve accuracy",
+                "Obtaining users' consent before collecting personal data and clearly stating the purpose of the data collection.",
+                "Store all emotional data indefinitely for future analysis",
+                "Disable all emotional recognition features entirely"
+            ],
+            "answer": [
+                "Obtaining users' consent before collecting personal data and clearly stating the purpose of the data collection."
+            ]
+        },
+        {
+            "question": "The speech emotion detection and virtual assistant components should be able to work in real-time or close to real-time.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "What is the role of the \"context\" in an emotionally intelligent virtual assistant?",
+            "choices": [
+                "To understand the user\u2019s preferences and history for personalized responses",
+                "It eliminates the need to analyze user input",
+                "It ensures the assistant always responds with positive emotions",
+                "To simply follow the user\u2019s spoken instructions without emotion or history"
+            ],
+            "answer": [
+                "To understand the user\u2019s preferences and history for personalized responses"
+            ]
+        },
+        {
+            "question": "How can emotional virtual agents help avoid bias in their responses to users?",
+            "choices": [
+                "By using data from only one ethnic group.",
+                "By ensuring the data used for training is diverse and representative.",
+                "By focusing on only one language group.",
+                "By ignoring cultural differences."
+            ],
+            "answer": [
+                "By ensuring the data used for training is diverse and representative."
+            ]
+        },
+        {
+            "question": "Which of the following is true about a virtual personal assistant system?",
+            "choices": [
+                "It should protect personal information but not emotional information.",
+                "It should protect emotional information but not personal information.",
+                "It should not protect either personal or emotional information.",
+                "It should protect both personal and emotional information."
+            ],
+            "answer": [
+                "It should protect both personal and emotional information."
+            ]
+        },
+        {
+            "question": "What should an Emotional Virtual Agent base its appropriate response on?",
+            "choices": [
+                "Intent and emotion",
+                "Intent and context",
+                "A mix of intent, emotion, and context",
+                "Emotion and context"
+            ],
+            "answer": [
+                "A mix of intent, emotion, and context"
+            ]
+        },
+        {
+            "question": "Normalizing emotional data from different users ensures that their responses can be compared fairly.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        }
+    ],
+    "Week 12 : Assignment 12": [
+        {
+            "question": "Which security measure is most commonly used to protect emotional state data transmitted to cloud-based systems?",
+            "choices": [
+                "Two-factor authentication",
+                "IP whitelisting",
+                "End-to-end encryption",
+                "Data obfuscation"
+            ],
+            "answer": [
+                "End-to-end encryption"
+            ]
+        },
+        {
+            "question": "Perfect anonymization cannot be guaranteed because any piece of data may become identifiable when combined with enough additional information.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "Why is it important for designers to provide clear documentation and contracts regarding app functionalities and data handling?",
+            "choices": [
+                "To maximize user interaction with the app",
+                "To increase user dependence on the app",
+                "To limit user access to app features",
+                "To ensure users understand how their data is recorded and who can access it"
+            ],
+            "answer": [
+                "To ensure users understand how their data is recorded and who can access it"
+            ]
+        },
+        {
+            "question": "Which of the following is in the correct order of their privacy invasiveness. Starting with the most invasive first\u200b.",
+            "choices": [
+                "Accelerometer > Wifi > Microphone",
+                "Accelerometer > Microphone > Wifi",
+                "Microphone > Wife > Accelerometer",
+                "Microphone > Wifi > Accelerometer"
+            ],
+            "answer": [
+                "Microphone > Wifi > Accelerometer"
+            ]
+        },
+        {
+            "question": "What method from the list below is used in neuromarketing research?",
+            "choices": [
+                "fMRI",
+                "dMRI",
+                "EGG",
+                "ECB"
+            ],
+            "answer": [
+                "fMRI"
+            ]
+        },
+        {
+            "question": "From an ethics perspective, what is a major concern regarding affect-sensing apps and emotional dependency?",
+            "choices": [
+                "User engagement",
+                "Privacy intrusion",
+                "User addiction",
+                "Emotional manipulation"
+            ],
+            "answer": [
+                "User addiction"
+            ]
+        },
+        {
+            "question": "Targeted advertising can improve user experience, but it also increases the user's vulnerability to privacy risks.",
+            "choices": [
+                "True",
+                "False"
+            ],
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "question": "Why should designers provide clear documentation and contracts about app functionalities and data handling?",
+            "choices": [
+                "To maximize how much users interact with the app",
+                "To increase user dependence on the application",
+                "To restrict user access to features",
+                "To clearly inform users about how their data is recorded and who can access it"
+            ],
+            "answer": [
+                "To clearly inform users about how their data is recorded and who can access it"
+            ]
+        },
+        {
+            "question": "Who should participate in forming ethical guidelines for developing affect-aware machines?",
+            "choices": [
+                "A collaborative group including engineers, ethicists, users, and other relevant stakeholders",
+                "Only engineers and system developers",
+                "Only ethicists and philosophers",
+                "Only end users and direct stakeholders"
+            ],
+            "answer": [
+                "A collaborative group including engineers, ethicists, users, and other relevant stakeholders"
+            ]
+        },
+        {
+            "question": "Which of the following sensing strategies is written wrongly in order of their privacy invasiveness?",
+            "choices": [
+                "Microphone > WiFi> Accelerometer",
+                "GPS > Bluetooth > Screen Touch",
+                "Calls > Apps > Gyroscope",
+                "WiFi > Gyroscope > Calls"
+            ],
+            "answer": [
+                "WiFi > Gyroscope > Calls"
+            ]
+        }
+    ]
+}

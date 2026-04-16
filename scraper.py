@@ -19,8 +19,10 @@ def scrape_questions(url):
         
         print("Please log in to the website if you haven't already.")
         
-        # We will incrementally save to ai_for_management.json
-        db_file = "ai_for_management.json"
+        # Save incrementally to the subject data directory.
+        db_dir = os.path.join("data", "subjects")
+        os.makedirs(db_dir, exist_ok=True)
+        db_file = os.path.join(db_dir, "affective_computing.json")
         
         if os.path.exists(db_file):
             with open(db_file, "r") as f:
@@ -36,11 +38,11 @@ def scrape_questions(url):
             all_data = {"Legacy Scrape": all_data}
 
         print("\n" + "="*50)
-        print("       INTERACTIVE SCRAPING MODE ACTIVATED")
+        print("       INTERACTIVE SCRAPING MODE")
         print("="*50)
-        print(f"1. Open any assignment/assessment page in the browser.")
-        print(f"2. Come back to this terminal and press ENTER to extract.")
-        print(f"3. Type 'q' and press ENTER when you are completely finished.")
+        print("1. Open an assessment page in the browser.")
+        print("2. Return to this terminal and press ENTER to extract.")
+        print("3. Type 'q' and press ENTER when finished.")
         print("="*50 + "\n")
 
         while True:
@@ -53,7 +55,7 @@ def scrape_questions(url):
             # Save incrementally
             with open(db_file, "w") as f:
                 json.dump(all_data, f, indent=4)
-            print(f"✅ Saved to {db_file}")
+            print(f"Saved to {db_file}")
 
         print("\nAll Scraping completed! Browser is closing...")
         browser.close()
@@ -67,7 +69,7 @@ def extract_questions_from_page(page, all_data):
         # Fallback if the element structure is slightly different
         heading = f"Unknown Assessment - {int(time.time())}"
         
-    print(f"\n📑 Extracting: '{heading}'")
+    print(f"\nExtracting: '{heading}'")
     
     if heading not in all_data:
         all_data[heading] = []
@@ -121,7 +123,7 @@ def extract_questions_from_page(page, all_data):
         print(f"Unique questions saved for '{heading}': {len(all_data[heading])}")
         
     else:
-        print("❌ No .qt-mc-question classes found on this visible page.")
+        print("No .qt-mc-question classes found on this visible page.")
         
     return heading
 
