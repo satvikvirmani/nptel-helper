@@ -9,6 +9,7 @@ from typing import Any
 SUBJECT_FILE_MAP: dict[str, str] = {
     "Affective Computing": "affective_computing.json",
     "Artificial Intelligence for Management": "ai_for_management.json",
+    "Information Technology": "info_tech.json",
 }
 
 
